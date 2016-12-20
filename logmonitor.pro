@@ -29,3 +29,6 @@ SOURCES += main.cpp\
 HEADERS  += logmonitor.h
 
 FORMS    += logmonitor.ui
+
+DISTFILES += \
+    .gitignore
